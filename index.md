@@ -9,7 +9,7 @@ The evolution of FRM@RO.
 ## Risk levels
 ![Colour code for the risk levels](/frm_ro/docs/assets/color_code.png)
 
-![Risk level](https://danpele.github.io/frm_ro/docs/assets/FRM_RO.html)
+[Risk level](https://danpele.github.io/frm_ro/docs/assets/FRM_RO.html)
 ```markdown
 
 Syntax highlighted code block
