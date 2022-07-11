@@ -14,7 +14,7 @@ The evolution of FRM@RO.
 The evolution of the risk level can de visualized [here](https://danpele.github.io/frm_ro/docs/assets/FRM_RO.html).
 
 ## Current risk level
-31 May 2022: 	High risk of a crisis in the financial market.	A crisis might come very soon.
+31 May 2022
 ![image](https://user-images.githubusercontent.com/26813254/178287286-cb56ab90-2f74-474b-b368-bd040c11b530.png)
 
 ## Contact
