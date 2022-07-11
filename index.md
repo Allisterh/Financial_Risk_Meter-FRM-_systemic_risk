@@ -1,9 +1,10 @@
-#
+# FRM@RO
+
 This is the repository for the paper FINANCIAL RISK METER FOR THE ROMANIAN STOCK MARKET, authors Daniel Traian Pele, Alexandra Ioana Conda, Raul Cristian Bag, Miruna Mazurencu-Marinescu-Pele, Vasile Alecsandru Strat.
 The paper can be viewed [here]().
 
 
-## FRM@RO
+## Dynamics
 
 The evolution of FRM@RO.
 ![FRM](/frm_ro/docs/assets/FRM_RO.png)
