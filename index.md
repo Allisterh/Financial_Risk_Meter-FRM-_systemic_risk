@@ -15,7 +15,7 @@ The evolution of the risk level can de visualized [here](https://danpele.github.
 
 ## Current risk level
 31 May 2022 - High risk of a crisis in the financial market.	A crisis might come very soon.
-<p>
+<br/>
 ![image](https://user-images.githubusercontent.com/26813254/178288115-d9c682c0-ba87-47ee-bf36-d872985a288d.png)
 
 
