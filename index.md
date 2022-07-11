@@ -8,6 +8,7 @@ The paper can be viewed [here]().
 The evolution of FRM@RO.
 
 ```markdown
+![Colour code for the risk levels](/frm_ro/docs/assets/color_code.png)
 Syntax highlighted code block
 
 # Header 1
