@@ -11,7 +11,7 @@ The evolution of FRM@RO.
 
 ## Risk levels
 
-![Colour code for the risk levels](/FRM_Ro/docs/assets/color_code.png)
+![Colour code for the risk levels](/FRM_RO/docs/assets/color_code.png)
 
 The evolution of the risk level can be visualized [here](https://danpele.github.io/FRM_RO/docs/assets/FRM_RO.html).
 
