@@ -15,7 +15,12 @@ The evolution of the risk level can de visualized [here](https://danpele.github.
 
 ## Current risk level
 31 May 2022
-![image](https://user-images.githubusercontent.com/26813254/178287286-cb56ab90-2f74-474b-b368-bd040c11b530.png)
+High risk of a crisis in the financial market.	A crisis might come very soon.
+![image](https://user-images.githubusercontent.com/26813254/178288115-d9c682c0-ba87-47ee-bf36-d872985a288d.png)
+
+
+
+
 
 ## Contact
 danpele@ase.ro
