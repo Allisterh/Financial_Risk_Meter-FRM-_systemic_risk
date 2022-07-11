@@ -6,6 +6,7 @@ The paper can be viewed [here]().
 
 ## FRM@RO
 The evolution of FRM@RO.
+![FRM](/frm_ro/docs/assets/FRM_RO.png)
 ## Risk levels
 ![Colour code for the risk levels](/frm_ro/docs/assets/color_code.png)
 
