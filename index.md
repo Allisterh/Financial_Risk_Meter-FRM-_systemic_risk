@@ -7,13 +7,13 @@ The paper can be viewed [here]().
 ## Dynamics
 
 The evolution of FRM@RO.
-![FRM](/frm_ro/docs/assets/FRM_RO.png)
+![FRM](/FRM_RO/docs/assets/FRM_RO.png)
 
 ## Risk levels
 
-![Colour code for the risk levels](/frm_ro/docs/assets/color_code.png)
+![Colour code for the risk levels](/FRM_Ro/docs/assets/color_code.png)
 
-The evolution of the risk level can be visualized [here](https://danpele.github.io/frm_ro/docs/assets/FRM_RO.html).
+The evolution of the risk level can be visualized [here](https://danpele.github.io/FRM_RO/docs/assets/FRM_RO.html).
 
 ## Current risk level
 
@@ -24,7 +24,7 @@ The evolution of the risk level can be visualized [here](https://danpele.github.
 
 ## Download historical data
 
-[FRM@RO](/frm_ro/docs/assets/frm.csv)
+[FRM@RO](/FRM_RO/docs/assets/frm.csv)
 
 ## Contact
 danpele@ase.ro
