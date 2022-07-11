@@ -4,9 +4,11 @@ This is the repository for the paper FINANCIAL RISK METER FOR THE ROMANIAN STOCK
 The paper can be viewed [here]().
 
 
-### FRM@RO
+## FRM@RO
 The evolution of FRM@RO.
+## Risk levels
 ![Colour code for the risk levels](/frm_ro/docs/assets/color_code.png)
+![Risk levels](/frm_ro/docs/assets/FRM_RO.html)
 ```markdown
 
 Syntax highlighted code block
