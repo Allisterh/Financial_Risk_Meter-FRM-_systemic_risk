@@ -3,7 +3,6 @@
 This is the repository for the paper FINANCIAL RISK METER FOR THE ROMANIAN STOCK MARKET, authors Daniel Traian Pele, Alexandra Ioana Conda, Raul Cristian Bag, Miruna Mazurencu-Marinescu-Pele, Vasile Alecsandru Strat.
 The paper can be viewed [here]().
 
-
 ## Dynamics
 
 The evolution of FRM@RO.
@@ -25,6 +24,10 @@ The evolution of the risk level can be visualized [here](https://danpele.github.
 ## Download historical data
 
 [FRM@RO](/frm_ro/docs/assets/frm.csv)
+
+## Resources
+
+More details about the FRM framework, developed by Professor Wolfgang Karl Härdle and his team from Humboldt-Universität zu Berlin can be found [here](http://frm.wiwi.hu-berlin.de/).
 
 ## Contact
 danpele@ase.ro
