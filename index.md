@@ -14,7 +14,7 @@ The evolution of FRM@RO.
 
 The evolution of the risk level can be visualized [here](https://danpele.github.io/frm_ro/docs/assets/FRM_RO.html).
 
-## Current risk level
+## Current risk level for the Romanian Stock Market
 
 31 May 2022 - High risk of a crisis in the financial market.	A crisis might come very soon.
 <br/>
