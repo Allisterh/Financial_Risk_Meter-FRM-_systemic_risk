@@ -16,9 +16,10 @@ The evolution of the risk level can be visualized [here](https://danpele.github.
 
 ## Current risk level for the Romanian Stock Market
 
-31 May 2022 - High risk of a crisis in the financial market.	A crisis might come very soon.
+18 Elevated 2022 - Elevated risk of a crisis in the financial market.	The incidence of a crisis is somewhat higher than usual.
 <br/>
-![image](https://user-images.githubusercontent.com/26813254/178288115-d9c682c0-ba87-47ee-bf36-d872985a288d.png)
+
+![image](https://user-images.githubusercontent.com/26813254/180007988-deb9a0a0-9efb-4e0f-99cd-54135b5143bf.png)
 
 
 ## Download historical data
