@@ -16,7 +16,7 @@ The evolution of FRM@RO.
 
 ![Dynamics of the risk level](/frm_ro/docs/assets/FRM_risk.png)
 
-Detailed chart level can be visualized [here](https://danpele.github.io/frm_ro/docs/assets/FRM_RO.html).
+Detailed chart can be visualized [here](https://danpele.github.io/frm_ro/docs/assets/FRM_RO.html).
 
 ## Current risk level for the Romanian Stock Market
 
