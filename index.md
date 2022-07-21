@@ -10,11 +10,11 @@ The evolution of FRM@RO.
 
 ## Risk levels
 
-![Colour code for the risk levels]((https://danpele.github.io/frm_ro/docs/color_code.png)
+![Colour code for the risk levels](/frm_ro/docs/color_code.png)
 
 <br/>
 
-![Dynamics of the risk level]((https://danpele.github.io/frm_ro/docs/FRM_risk.png)
+![Dynamics of the risk level](/frm_ro/docs/FRM_risk.png)
 
 Detailed chart can be visualized [here](https://danpele.github.io/frm_ro/docs/FRM_RO.html).
 
@@ -28,7 +28,7 @@ Detailed chart can be visualized [here](https://danpele.github.io/frm_ro/docs/FR
 
 ## Download historical data
 
-[FRM@RO]((https://danpele.github.io/frm_ro/docs/frm.csv)
+[FRM@RO](/frm_ro/docs/frm.csv)
 
 
 ## Download data and code
