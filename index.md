@@ -14,7 +14,7 @@ The evolution of FRM@RO.
 
 <br/>
 
-![Dynamics of the risk level](/frm_ro/docs/FRM_risk.png)
+![Dynamics of the risk level]((https://danpele.github.io/frm_ro/docs/FRM_risk.png)
 
 Detailed chart can be visualized [here](https://danpele.github.io/frm_ro/docs/FRM_RO.html).
 
