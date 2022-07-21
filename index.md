@@ -32,9 +32,9 @@ Detailed chart can be visualized [here](https://danpele.github.io/frm_ro/docs/FR
 
 
 ## Download data and code
-[Data](/frm_ro/data)
+[Data](https://github.com/danpele/frm_ro/tree/gh-pages/data)
 <br/>
-[Code](/frm_ro/code)
+[Code](https://github.com/danpele/frm_ro/tree/gh-pages/code)
 
 ## Resources
 
