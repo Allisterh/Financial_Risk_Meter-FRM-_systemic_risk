@@ -30,6 +30,12 @@ Detailed chart can be visualized [here](https://danpele.github.io/frm_ro/docs/FR
 
 [FRM@RO](/frm_ro/docs/frm.csv)
 
+
+## Download data and code
+[Data](/frm_ro/data)
+<br/>
+[Code](/frm_ro/code)
+
 ## Resources
 
 More details about the FRM framework, developed by Professor Wolfgang Karl Härdle and his team from Humboldt-Universität zu Berlin can be found [here](http://frm.wiwi.hu-berlin.de/).
