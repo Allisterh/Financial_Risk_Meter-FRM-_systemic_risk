@@ -24,10 +24,7 @@ Detailed chart can be visualized [here](https://danpele.github.io/frm_ro/docs/FR
 
 <br/>
 
-
-
 ![image](https://user-images.githubusercontent.com/26813254/192145288-c56b2a97-1cec-4918-af10-cd65e6b5f05d.png)
-
 
 
 
