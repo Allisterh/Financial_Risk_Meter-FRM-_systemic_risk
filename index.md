@@ -33,10 +33,10 @@ Detailed chart can be visualized [here](https://danpele.github.io/frm_ro/docs/FR
 
 ## Network dynamics
 
-03 January 2022 - 17 August 2022
+03 January 2022 - 19 September 2022
 <br/>
 
-![network](/frm_ro/docs/Network_20220103_20220816_RO.gif)
+![network](/frm_ro/docs/Network_20220103_20220920_RO.gif)
 
 ## Download historical data
 
