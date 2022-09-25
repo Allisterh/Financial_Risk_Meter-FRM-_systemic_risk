@@ -20,11 +20,13 @@ Detailed chart can be visualized [here](https://danpele.github.io/frm_ro/docs/FR
 
 ## Current risk level for the Romanian Stock Market
 
-17 August 2022 - High risk of a crisis in the financial market.	A crisis might come very soon.
+19 September 2022 - Elevated risk of a crisis in the financial market.	The incidence of a crisis is somewhat higher than usual.
+
 <br/>
 
 
-![image](https://user-images.githubusercontent.com/26813254/185145595-9e605f9b-2ebc-4131-b447-04879da9c414.png)
+
+![image](https://user-images.githubusercontent.com/26813254/192145288-c56b2a97-1cec-4918-af10-cd65e6b5f05d.png)
 
 
 
