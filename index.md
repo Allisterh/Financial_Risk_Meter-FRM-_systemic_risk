@@ -23,11 +23,7 @@ Detailed chart can be visualized [here](https://danpele.github.io/frm_ro/docs/FR
 13 December 2022 - High risk of a crisis in the financial market.	A crisis might come very soon.
 
 <br/>
-
-![image]
 ![image](https://user-images.githubusercontent.com/26813254/207567048-f057f4b2-158d-4325-a7bf-dde66f4c027d.png)
-
-
 
 
 ## Network dynamics
